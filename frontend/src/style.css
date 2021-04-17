@@ -1,0 +1,73 @@
+/* a.nav-link, a.nav-link:focus{
+  border: inherit;
+  outline:none;
+} 
+a.nav-link:link{
+  text-decoration: none;
+}
+
+a.nav-link:hover{
+	color:#f8f9fa !important;
+}
+
+a.nav-link:active{
+	color:#f8f9fa !important;
+}
+
+a.nav-link:focus{
+	color:#f8f9fa !important;
+}
+
+.selected{
+	color:#f8f9fa !important;	
+}
+
+
+.Toastify__toast-body {
+  font-size: 85% !important;
+  color: black !important;
+}
+
+.grid {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-between;
+  align-items: stretch;
+}
+
+.item {
+	width:22rem;
+	
+	box-sizing: border-box;
+}
+
+.__react_component_tooltip{
+    padding: 4px 10px !important;
+}
+
+.search{
+    min-width:170px;
+    flex:1;
+    max-width:350px;
+    margin-right:10px;
+}
+
+.searchcard{
+    width: 21rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+@media(max-width:992px){
+    .search{
+        max-width:100%;
+    }
+}
+
+@media(max-width:576px){
+    .searchcard{
+        width:100%;
+        margin-right:0;
+    }
+} */
